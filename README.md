@@ -1,2 +1,4 @@
-# rainway-switch
-Port of Rainway for Nintendo Switch.
+# Rainway For the Nintendo Switch
+This is a port of Rainway (The PC Streaming Service) to the Nintendo Switch using the SwitchBru DNS Trick. There will be a custom made Rainway Menu made for the Nintendo Switch.
+# How to Use
+To Launch Rainway for the NX, you need to first have the Rainway Dashboard installed on your PC and the Youtube App installed on your Nintendo Switch, this app will be used to load the SwitchBru HTML. Then you will need to launch SwitchBru by changing the primary DNS on your Network. (DONT CHANGE IT ON THE ROUTER. CHANGE IT ON THE NINTENDO SWITCH IN THE INTERNET SETTINGS!.) Then change the Primary DNS to 45.55.142.122. The Secondary DNS should be blank. But if it isn't blank then use Google's Public DNS: 8.8.8.8 . Save the changes and try connecting to the Internet, you should see a message asking for Registration. Press on the Next Button and then go to your home menu. Then launch the Youtube app and you should see the SwitchBru Dashboard. If you see a page with the Google Logo on it then look to the side and press on the "Enter URL" Link. Then  in the URL box, type in "tinyurl.com/RainwayNX" and then press on the button right below the URL box. Then you should see the RainwayNX Dashboard
